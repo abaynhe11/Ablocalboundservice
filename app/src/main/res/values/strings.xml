@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AbLocalBoundService</string>
+    <string name="time_now_is">Time now is:</string>
+    <string name="showtime">ShowTime</string>
+</resources>
